@@ -15,3 +15,4 @@
  * [Γενικές πληροφορίες](hpc/hpc.md)
  * [Abaqus batch jobs](hpc/abaqus.md)
  * [Matlab batch jobs](hpc/matlab.md)
+ * [Fluent batch jobs](hpc/fluent.md)
